@@ -13,10 +13,424 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\C++primer 初级">
+      <UniqueIdentifier>{e9bc33ee-4efe-47d1-ac27-aee2fb017cf2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\001.快速入门">
+      <UniqueIdentifier>{37ef2539-fd8c-4049-847d-0ddf6f645591}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\002.基本内置类型">
+      <UniqueIdentifier>{23f60ba3-0794-4874-b225-24627ea32661}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\003.习题解答">
+      <UniqueIdentifier>{b3fc1c1a-1f2e-4ff1-9a6e-1182469bce92}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\004.字面值常量">
+      <UniqueIdentifier>{3f0353c2-edfe-4c0a-b892-bb46a75faf4c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\005.变量">
+      <UniqueIdentifier>{1f8bd2fe-20c3-469a-bfa0-9e0217b9a31d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\006.变量名">
+      <UniqueIdentifier>{fc0a45a2-b253-407a-8f7e-a63b4918e917}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\007.定义对象">
+      <UniqueIdentifier>{9deec6c0-f724-41c6-bed0-0fcb6f482350}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\008.声明和定义">
+      <UniqueIdentifier>{24840323-a63d-45d3-9d3e-efe01ac20e63}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\009.名字的作用域">
+      <UniqueIdentifier>{69e48d0d-4a6d-4096-b670-b5482de551ee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\010.const限定符">
+      <UniqueIdentifier>{90b9a4c4-ce70-4d7d-9ece-2be02a6f0b49}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\011.引用">
+      <UniqueIdentifier>{7e4d6c7b-1fa8-4fcf-bc03-29d436b26e9e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\012._typedef">
+      <UniqueIdentifier>{b1d7ddfc-625e-4495-a227-8ec95eea72be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\013.枚举">
+      <UniqueIdentifier>{d73f20bd-8677-4019-b8cc-47768af6556a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\014.类类型">
+      <UniqueIdentifier>{52bef59e-4516-4ab7-b8f3-add75cb770dd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\015.头文件">
+      <UniqueIdentifier>{1930912a-3e66-4385-9fec-515b004902c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\016.命名空间的using声明">
+      <UniqueIdentifier>{5bdf7cf0-2dca-4605-a319-2c5d2dc74cf7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\018.标准库_string_类型2">
+      <UniqueIdentifier>{91a4d474-b514-4657-92d8-cb4461f67b48}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\017.标准库_string_类型2">
+      <UniqueIdentifier>{61ce3937-e867-4953-8cc4-6d5debc4ee11}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\019.习题%28string类型%29">
+      <UniqueIdentifier>{d5e5df0d-e223-47fd-8b6b-b7bb09b7a551}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\020.string_类型">
+      <UniqueIdentifier>{e9be9c3b-30c0-4fe6-998e-9c7211f906b1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\021.vector类型">
+      <UniqueIdentifier>{85283df5-f0ab-422e-ac0b-36d9e09b4bd1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\022.习题%28vector%29">
+      <UniqueIdentifier>{a5cd36ff-385a-4d5b-858f-b433429062bb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\023.标准库_迭代器简介">
+      <UniqueIdentifier>{7c890941-3ef6-4ea5-a792-8be9f48692fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\024.二进制和十六进制">
+      <UniqueIdentifier>{13549bb8-6e0f-4504-afcb-d00b4fe070d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\025.标准库_bitset类型">
+      <UniqueIdentifier>{24ed7994-d2ce-4472-b4b7-589bc5d33bae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\026.艾拉托斯特尼-筛法">
+      <UniqueIdentifier>{f0dec677-bf16-4552-8183-7ecf75ff2397}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\027.数组">
+      <UniqueIdentifier>{c14ab676-acdf-46c5-a3ee-686e5a657a77}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\028.指针">
+      <UniqueIdentifier>{c4f427f3-f094-448f-a536-551d9c86adcb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\030.指针和const限定符">
+      <UniqueIdentifier>{965f8092-552d-4e62-b646-c3dba1f1c2de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\031.C风格字符串">
+      <UniqueIdentifier>{052a0ae9-0d86-4c05-8cb6-0cb5dddf0707}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\029.指针%28使用指针访问数组%29">
+      <UniqueIdentifier>{25ba8b6e-ff12-49de-8a4f-0d9e867cc078}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\032.创建动态数组">
+      <UniqueIdentifier>{fd061970-afb4-4d1c-8a71-bc1105c5aa19}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\033.新旧代码兼容">
+      <UniqueIdentifier>{554e28ad-5a4f-48c7-93d9-78166d4a22dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\034.多维数组">
+      <UniqueIdentifier>{f9439b93-66a0-430e-b0af-44e215114b4a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\035.算数操作符">
+      <UniqueIdentifier>{23a101b1-56e1-47b8-a79b-1db8d10ff637}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\036.关系和逻辑操作符">
+      <UniqueIdentifier>{e4e8b298-4816-49ec-bb27-69f6ea4a77f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\037.位操作符">
+      <UniqueIdentifier>{a5f119cb-923a-4b3d-a076-233e68554187}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\038.赋值操作符">
+      <UniqueIdentifier>{94c5cb1e-e707-45cc-abe4-46adb440603b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\039.自增和自减操作符">
+      <UniqueIdentifier>{94d6c65b-ddd9-4b53-a3fa-feb271077e7d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\040.箭头操作符">
+      <UniqueIdentifier>{b1a6f5de-48e7-4829-9f5a-6ac77d5405ef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\041.三个特殊的操作符">
+      <UniqueIdentifier>{0644f84d-4fef-4bc2-9226-2f77cb6b727c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\042.new_delete">
+      <UniqueIdentifier>{5c816ca5-d903-4bde-ad5d-148ca82302a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\043.类型转换运算符">
+      <UniqueIdentifier>{f32e7135-f5c7-48ba-a3c2-54fcbdda64dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer中级">
+      <UniqueIdentifier>{27c9e667-0319-40c4-af01-93e02cf7aafc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer中级\004.类定义">
+      <UniqueIdentifier>{1b0e1e24-6586-4e1b-a54b-d90871d13b93}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer中级\005.隐含的this指针">
+      <UniqueIdentifier>{6a1c0793-0ad2-46dc-9eaf-fc47f2193c68}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer中级\006.类作用域">
+      <UniqueIdentifier>{ac759e66-3544-42a3-bad2-8950257a3601}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer中级\007.构造函数">
+      <UniqueIdentifier>{34099e9a-5967-406a-8c01-82a1b6b31130}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer中级\008.友元">
+      <UniqueIdentifier>{95714233-ed6c-428b-8202-265bec18a6c4}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Repository C primer plus.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="..\try\001子文件3.cpp">
+      <Filter>Source Files\C++primer 初级\001.快速入门</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\001子文件1.cpp">
+      <Filter>Source Files\C++primer 初级\001.快速入门</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\001子文件2.cpp">
+      <Filter>Source Files\C++primer 初级\001.快速入门</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\001快速入门.cpp">
+      <Filter>Source Files\C++primer 初级\001.快速入门</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\001快速开发入门.cpp">
+      <Filter>Source Files\C++primer 初级\001.快速入门</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\002.基本内置类型.cpp">
+      <Filter>Source Files\C++primer 初级\002.基本内置类型</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\002.子文件1.cpp">
+      <Filter>Source Files\C++primer 初级\002.基本内置类型</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\002子文件2.cpp">
+      <Filter>Source Files\C++primer 初级\002.基本内置类型</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\2.3.cpp">
+      <Filter>Source Files\C++primer 初级\003.习题解答</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\字符串字面值.cpp">
+      <Filter>Source Files\C++primer 初级\004.字面值常量</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\字符串字面值连接.cpp">
+      <Filter>Source Files\C++primer 初级\004.字面值常量</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\字符字面值.cpp">
+      <Filter>Source Files\C++primer 初级\004.字面值常量</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\布尔字面值.cpp">
+      <Filter>Source Files\C++primer 初级\004.字面值常量</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\整型字面值.cpp">
+      <Filter>Source Files\C++primer 初级\004.字面值常量</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\浮点字面值.cpp">
+      <Filter>Source Files\C++primer 初级\004.字面值常量</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\非打印字符的转义序列.cpp">
+      <Filter>Source Files\C++primer 初级\004.字面值常量</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\变量.cpp">
+      <Filter>Source Files\C++primer 初级\005.变量</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\左值右值.cpp">
+      <Filter>Source Files\C++primer 初级\005.变量</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\指数计算.cpp">
+      <Filter>Source Files\C++primer 初级\005.变量</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\006.变量名.cpp">
+      <Filter>Source Files\C++primer 初级\006.变量名</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\007.定义对象.cpp">
+      <Filter>Source Files\C++primer 初级\007.定义对象</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\008.声明和定义.cpp">
+      <Filter>Source Files\C++primer 初级\008.声明和定义</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\009.名字的作用域.cpp">
+      <Filter>Source Files\C++primer 初级\009.名字的作用域</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\010.const限定符.cpp">
+      <Filter>Source Files\C++primer 初级\010.const限定符</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\011.引用.cpp">
+      <Filter>Source Files\C++primer 初级\011.引用</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\012._typedef.cpp">
+      <Filter>Source Files\C++primer 初级\012._typedef</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\013.枚举.cpp">
+      <Filter>Source Files\C++primer 初级\013.枚举</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\014.类类型.cpp">
+      <Filter>Source Files\C++primer 初级\014.类类型</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\015.头文件.cpp">
+      <Filter>Source Files\C++primer 初级\015.头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\016.命名空间的using声明.cpp">
+      <Filter>Source Files\C++primer 初级\016.命名空间的using声明</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\017.子文件1.cpp">
+      <Filter>Source Files\C++primer 初级\017.标准库_string_类型2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\017.标准库_string_类型.cpp">
+      <Filter>Source Files\C++primer 初级\017.标准库_string_类型2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\018.标准库_string_类型.cpp">
+      <Filter>Source Files\C++primer 初级\018.标准库_string_类型2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\019.习题.cpp">
+      <Filter>Source Files\C++primer 初级\019.习题%28string类型%29</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\019.子文件1.cpp">
+      <Filter>Source Files\C++primer 初级\019.习题%28string类型%29</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\019.子文件2.cpp">
+      <Filter>Source Files\C++primer 初级\019.习题%28string类型%29</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\020.string类型_.cpp">
+      <Filter>Source Files\C++primer 初级\020.string_类型</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\020.习题.cpp">
+      <Filter>Source Files\C++primer 初级\020.string_类型</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\020.子文件1.cpp">
+      <Filter>Source Files\C++primer 初级\020.string_类型</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\021.vector类型.cpp">
+      <Filter>Source Files\C++primer 初级\021.vector类型</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\021.子文件1.cpp">
+      <Filter>Source Files\C++primer 初级\021.vector类型</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\021.子文件2.cpp">
+      <Filter>Source Files\C++primer 初级\021.vector类型</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\022.习题解答.cpp">
+      <Filter>Source Files\C++primer 初级\022.习题%28vector%29</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\022.子文件1.cpp">
+      <Filter>Source Files\C++primer 初级\022.习题%28vector%29</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\022.子文件2.cpp">
+      <Filter>Source Files\C++primer 初级\022.习题%28vector%29</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\023.标准库_迭代器简介.cpp">
+      <Filter>Source Files\C++primer 初级\023.标准库_迭代器简介</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\024.二进制和十六进制.cpp">
+      <Filter>Source Files\C++primer 初级\024.二进制和十六进制</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\025.子文件1.cpp">
+      <Filter>Source Files\C++primer 初级\025.标准库_bitset类型</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\025.子文件2.cpp">
+      <Filter>Source Files\C++primer 初级\025.标准库_bitset类型</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\025.子文件3.cpp">
+      <Filter>Source Files\C++primer 初级\025.标准库_bitset类型</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\025.标准库_bitset.cpp">
+      <Filter>Source Files\C++primer 初级\025.标准库_bitset类型</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\026.艾拉托斯特尼-筛法.cpp">
+      <Filter>Source Files\C++primer 初级\026.艾拉托斯特尼-筛法</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\027.子文件1.cpp">
+      <Filter>Source Files\C++primer 初级\027.数组</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\027.数组.cpp">
+      <Filter>Source Files\C++primer 初级\027.数组</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\028.子文件1.cpp">
+      <Filter>Source Files\C++primer 初级\028.指针</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\028.指针.cpp">
+      <Filter>Source Files\C++primer 初级\028.指针</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\030.指针和const限定符.cpp">
+      <Filter>Source Files\C++primer 初级\030.指针和const限定符</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\029.使用指针访问数组.cpp">
+      <Filter>Source Files\C++primer 初级\029.指针%28使用指针访问数组%29</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\C风格的字符串.cpp">
+      <Filter>Source Files\C++primer 初级\031.C风格字符串</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\032.创建动态数组.cpp">
+      <Filter>Source Files\C++primer 初级\032.创建动态数组</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\032.子文件1.cpp">
+      <Filter>Source Files\C++primer 初级\032.创建动态数组</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\032.子文件2.cpp">
+      <Filter>Source Files\C++primer 初级\032.创建动态数组</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\033.vector到数组1.cpp">
+      <Filter>Source Files\C++primer 初级\033.新旧代码兼容</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\033.vector到数组2.cpp">
+      <Filter>Source Files\C++primer 初级\033.新旧代码兼容</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\033.新旧代码兼容.cpp">
+      <Filter>Source Files\C++primer 初级\033.新旧代码兼容</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\034.多维数组.cpp">
+      <Filter>Source Files\C++primer 初级\034.多维数组</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\035.算数操作符.cpp">
+      <Filter>Source Files\C++primer 初级\035.算数操作符</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\036.关系操作符.cpp">
+      <Filter>Source Files\C++primer 初级\036.关系和逻辑操作符</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\036.指针与短路运算.cpp">
+      <Filter>Source Files\C++primer 初级\036.关系和逻辑操作符</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\036.短路求值.cpp">
+      <Filter>Source Files\C++primer 初级\036.关系和逻辑操作符</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\036.逻辑操作符.cpp">
+      <Filter>Source Files\C++primer 初级\036.关系和逻辑操作符</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\037.bitset对象.cpp">
+      <Filter>Source Files\C++primer 初级\037.位操作符</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\037.位操作符.cpp">
+      <Filter>Source Files\C++primer 初级\037.位操作符</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\037.重载.cpp">
+      <Filter>Source Files\C++primer 初级\037.位操作符</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\038.子文件1.cpp">
+      <Filter>Source Files\C++primer 初级\038.赋值操作符</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\038.赋值操作符.cpp">
+      <Filter>Source Files\C++primer 初级\038.赋值操作符</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\039.自增自减操作符.cpp">
+      <Filter>Source Files\C++primer 初级\039.自增和自减操作符</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\040.习题.cpp">
+      <Filter>Source Files\C++primer 初级\040.箭头操作符</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\040.箭头操作符.cpp">
+      <Filter>Source Files\C++primer 初级\040.箭头操作符</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\041.a条件操作符.cpp">
+      <Filter>Source Files\C++primer 初级\041.三个特殊的操作符</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\041.sizeof操作符.cpp">
+      <Filter>Source Files\C++primer 初级\041.三个特殊的操作符</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\041.逗号操作符.cpp">
+      <Filter>Source Files\C++primer 初级\041.三个特殊的操作符</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\042.new_delete.cpp">
+      <Filter>Source Files\C++primer 初级\042.new_delete</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\043.类型转换运算符.cpp">
+      <Filter>Source Files\C++primer 初级\043.类型转换运算符</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\004.类定义.cpp">
+      <Filter>Source Files\C++primer中级\004.类定义</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\005.隐含的this指针.cpp">
+      <Filter>Source Files\C++primer中级\005.隐含的this指针</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\006类作用域.cpp">
+      <Filter>Source Files\C++primer中级\006.类作用域</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\007.构造函数.cpp">
+      <Filter>Source Files\C++primer中级\007.构造函数</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\008.友元.cpp">
+      <Filter>Source Files\C++primer中级\008.友元</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

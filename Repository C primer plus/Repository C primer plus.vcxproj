@@ -18,6 +18,97 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\try\001子文件1.cpp" />
+    <ClCompile Include="..\try\001子文件2.cpp" />
+    <ClCompile Include="..\try\001子文件3.cpp" />
+    <ClCompile Include="..\try\001快速入门.cpp" />
+    <ClCompile Include="..\try\001快速开发入门.cpp" />
+    <ClCompile Include="..\try\002.基本内置类型.cpp" />
+    <ClCompile Include="..\try\002.子文件1.cpp" />
+    <ClCompile Include="..\try\002子文件2.cpp" />
+    <ClCompile Include="..\try\004.类定义.cpp" />
+    <ClCompile Include="..\try\005.隐含的this指针.cpp" />
+    <ClCompile Include="..\try\006.变量名.cpp" />
+    <ClCompile Include="..\try\006类作用域.cpp" />
+    <ClCompile Include="..\try\007.定义对象.cpp" />
+    <ClCompile Include="..\try\007.构造函数.cpp" />
+    <ClCompile Include="..\try\008.友元.cpp" />
+    <ClCompile Include="..\try\008.声明和定义.cpp" />
+    <ClCompile Include="..\try\009.名字的作用域.cpp" />
+    <ClCompile Include="..\try\010.const限定符.cpp" />
+    <ClCompile Include="..\try\011.引用.cpp" />
+    <ClCompile Include="..\try\012._typedef.cpp" />
+    <ClCompile Include="..\try\013.枚举.cpp" />
+    <ClCompile Include="..\try\014.类类型.cpp" />
+    <ClCompile Include="..\try\015.头文件.cpp" />
+    <ClCompile Include="..\try\016.命名空间的using声明.cpp" />
+    <ClCompile Include="..\try\017.子文件1.cpp" />
+    <ClCompile Include="..\try\017.标准库_string_类型.cpp" />
+    <ClCompile Include="..\try\018.标准库_string_类型.cpp" />
+    <ClCompile Include="..\try\019.习题.cpp" />
+    <ClCompile Include="..\try\019.子文件1.cpp" />
+    <ClCompile Include="..\try\019.子文件2.cpp" />
+    <ClCompile Include="..\try\020.string类型_.cpp" />
+    <ClCompile Include="..\try\020.习题.cpp" />
+    <ClCompile Include="..\try\020.子文件1.cpp" />
+    <ClCompile Include="..\try\021.vector类型.cpp" />
+    <ClCompile Include="..\try\021.子文件1.cpp" />
+    <ClCompile Include="..\try\021.子文件2.cpp" />
+    <ClCompile Include="..\try\022.习题解答.cpp" />
+    <ClCompile Include="..\try\022.子文件1.cpp" />
+    <ClCompile Include="..\try\022.子文件2.cpp" />
+    <ClCompile Include="..\try\023.标准库_迭代器简介.cpp" />
+    <ClCompile Include="..\try\024.二进制和十六进制.cpp" />
+    <ClCompile Include="..\try\025.子文件1.cpp" />
+    <ClCompile Include="..\try\025.子文件2.cpp" />
+    <ClCompile Include="..\try\025.子文件3.cpp" />
+    <ClCompile Include="..\try\025.标准库_bitset.cpp" />
+    <ClCompile Include="..\try\026.艾拉托斯特尼-筛法.cpp" />
+    <ClCompile Include="..\try\027.子文件1.cpp" />
+    <ClCompile Include="..\try\027.数组.cpp" />
+    <ClCompile Include="..\try\028.子文件1.cpp" />
+    <ClCompile Include="..\try\028.指针.cpp" />
+    <ClCompile Include="..\try\029.使用指针访问数组.cpp" />
+    <ClCompile Include="..\try\030.指针和const限定符.cpp" />
+    <ClCompile Include="..\try\032.创建动态数组.cpp" />
+    <ClCompile Include="..\try\032.子文件1.cpp" />
+    <ClCompile Include="..\try\032.子文件2.cpp" />
+    <ClCompile Include="..\try\033.vector到数组1.cpp" />
+    <ClCompile Include="..\try\033.vector到数组2.cpp" />
+    <ClCompile Include="..\try\033.新旧代码兼容.cpp" />
+    <ClCompile Include="..\try\034.多维数组.cpp" />
+    <ClCompile Include="..\try\035.算数操作符.cpp" />
+    <ClCompile Include="..\try\036.关系操作符.cpp" />
+    <ClCompile Include="..\try\036.指针与短路运算.cpp" />
+    <ClCompile Include="..\try\036.短路求值.cpp" />
+    <ClCompile Include="..\try\036.逻辑操作符.cpp" />
+    <ClCompile Include="..\try\037.bitset对象.cpp" />
+    <ClCompile Include="..\try\037.位操作符.cpp" />
+    <ClCompile Include="..\try\037.重载.cpp" />
+    <ClCompile Include="..\try\038.子文件1.cpp" />
+    <ClCompile Include="..\try\038.赋值操作符.cpp" />
+    <ClCompile Include="..\try\039.自增自减操作符.cpp" />
+    <ClCompile Include="..\try\040.习题.cpp" />
+    <ClCompile Include="..\try\040.箭头操作符.cpp" />
+    <ClCompile Include="..\try\041.a条件操作符.cpp" />
+    <ClCompile Include="..\try\041.sizeof操作符.cpp" />
+    <ClCompile Include="..\try\041.逗号操作符.cpp" />
+    <ClCompile Include="..\try\042.new_delete.cpp" />
+    <ClCompile Include="..\try\043.类型转换运算符.cpp" />
+    <ClCompile Include="..\try\2.3.cpp" />
+    <ClCompile Include="..\try\C风格的字符串.cpp" />
+    <ClCompile Include="..\try\变量.cpp" />
+    <ClCompile Include="..\try\字符串字面值.cpp" />
+    <ClCompile Include="..\try\字符串字面值连接.cpp" />
+    <ClCompile Include="..\try\字符字面值.cpp" />
+    <ClCompile Include="..\try\左值右值.cpp" />
+    <ClCompile Include="..\try\布尔字面值.cpp" />
+    <ClCompile Include="..\try\指数计算.cpp" />
+    <ClCompile Include="..\try\整型字面值.cpp" />
+    <ClCompile Include="..\try\浮点字面值.cpp" />
+    <ClCompile Include="..\try\非打印字符的转义序列.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <ProjectGuid>{88526C91-7B16-4D03-A3C0-AE7BEA7C8B45}</ProjectGuid>
@@ -146,9 +237,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="Repository C primer plus.cpp" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
