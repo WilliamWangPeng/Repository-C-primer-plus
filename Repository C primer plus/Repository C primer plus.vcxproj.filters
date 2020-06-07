@@ -67,9 +67,6 @@
     <Filter Include="Source Files\C++primer 初级\018.标准库_string_类型2">
       <UniqueIdentifier>{91a4d474-b514-4657-92d8-cb4461f67b48}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Source Files\C++primer 初级\017.标准库_string_类型2">
-      <UniqueIdentifier>{61ce3937-e867-4953-8cc4-6d5debc4ee11}</UniqueIdentifier>
-    </Filter>
     <Filter Include="Source Files\C++primer 初级\019.习题%28string类型%29">
       <UniqueIdentifier>{d5e5df0d-e223-47fd-8b6b-b7bb09b7a551}</UniqueIdentifier>
     </Filter>
@@ -162,6 +159,21 @@
     </Filter>
     <Filter Include="Source Files\C++primer中级\008.友元">
       <UniqueIdentifier>{95714233-ed6c-428b-8202-265bec18a6c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\044.简单语句">
+      <UniqueIdentifier>{612bcf55-9311-4727-8ec8-5e57a1cf22f7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\045.if_语句">
+      <UniqueIdentifier>{abf7f646-c978-4b53-afea-f4871cb3af97}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\046._switch_语句">
+      <UniqueIdentifier>{46f7f3fa-679f-43d6-91fa-ed1f0bc0b3e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\017.标准库_string_类型1">
+      <UniqueIdentifier>{61ce3937-e867-4953-8cc4-6d5debc4ee11}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\047.while语句">
+      <UniqueIdentifier>{14d2a6d0-0cfb-4027-ac49-03ae6a9a2045}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -256,10 +268,10 @@
       <Filter>Source Files\C++primer 初级\016.命名空间的using声明</Filter>
     </ClCompile>
     <ClCompile Include="..\try\017.子文件1.cpp">
-      <Filter>Source Files\C++primer 初级\017.标准库_string_类型2</Filter>
+      <Filter>Source Files\C++primer 初级\017.标准库_string_类型1</Filter>
     </ClCompile>
     <ClCompile Include="..\try\017.标准库_string_类型.cpp">
-      <Filter>Source Files\C++primer 初级\017.标准库_string_类型2</Filter>
+      <Filter>Source Files\C++primer 初级\017.标准库_string_类型1</Filter>
     </ClCompile>
     <ClCompile Include="..\try\018.标准库_string_类型.cpp">
       <Filter>Source Files\C++primer 初级\018.标准库_string_类型2</Filter>
@@ -431,6 +443,30 @@
     </ClCompile>
     <ClCompile Include="..\try\008.友元.cpp">
       <Filter>Source Files\C++primer中级\008.友元</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\044.简单语句.cpp">
+      <Filter>Source Files\C++primer 初级\044.简单语句</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\044.子文件.cpp">
+      <Filter>Source Files\C++primer 初级\044.简单语句</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\045.if_语句.cpp">
+      <Filter>Source Files\C++primer 初级\045.if_语句</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\046.示例.cpp">
+      <Filter>Source Files\C++primer 初级\046._switch_语句</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\46.a_switch_语句.cpp">
+      <Filter>Source Files\C++primer 初级\046._switch_语句</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\047.while示例1.cpp">
+      <Filter>Source Files\C++primer 初级\047.while语句</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\047.a-while语句.cpp">
+      <Filter>Source Files\C++primer 初级\047.while语句</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\047.while示例2.cpp">
+      <Filter>Source Files\C++primer 初级\047.while语句</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

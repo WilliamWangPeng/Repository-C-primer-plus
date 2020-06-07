@@ -96,7 +96,15 @@
     <ClCompile Include="..\try\041.逗号操作符.cpp" />
     <ClCompile Include="..\try\042.new_delete.cpp" />
     <ClCompile Include="..\try\043.类型转换运算符.cpp" />
+    <ClCompile Include="..\try\044.子文件.cpp" />
+    <ClCompile Include="..\try\044.简单语句.cpp" />
+    <ClCompile Include="..\try\045.if_语句.cpp" />
+    <ClCompile Include="..\try\046.示例.cpp" />
+    <ClCompile Include="..\try\047.while示例1.cpp" />
+    <ClCompile Include="..\try\047.a-while语句.cpp" />
+    <ClCompile Include="..\try\047.while示例2.cpp" />
     <ClCompile Include="..\try\2.3.cpp" />
+    <ClCompile Include="..\try\46.a_switch_语句.cpp" />
     <ClCompile Include="..\try\C风格的字符串.cpp" />
     <ClCompile Include="..\try\变量.cpp" />
     <ClCompile Include="..\try\字符串字面值.cpp" />

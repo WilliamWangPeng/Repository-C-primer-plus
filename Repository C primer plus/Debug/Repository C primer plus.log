@@ -1,0 +1,164 @@
+﻿  001子文件1.cpp
+  001子文件2.cpp
+  001子文件3.cpp
+C:\Users\yquan\source\Repository-C-primer-plus\try\001子文件3.cpp(8,5): error C2065: 'Sales_item': undeclared identifier
+C:\Users\yquan\source\Repository-C-primer-plus\try\001子文件3.cpp(8,16): error C2146: syntax error: missing ';' before identifier 'total'
+C:\Users\yquan\source\Repository-C-primer-plus\try\001子文件3.cpp(8,16): error C2065: 'total': undeclared identifier
+C:\Users\yquan\source\Repository-C-primer-plus\try\001子文件3.cpp(8,23): error C2065: 'trans': undeclared identifier
+C:\Users\yquan\source\Repository-C-primer-plus\try\001子文件3.cpp(10,13): error C2065: 'total': undeclared identifier
+C:\Users\yquan\source\Repository-C-primer-plus\try\001子文件3.cpp(12,20): error C2065: 'trans': undeclared identifier
+C:\Users\yquan\source\Repository-C-primer-plus\try\001子文件3.cpp(14,16): error C2065: 'total': undeclared identifier
+C:\Users\yquan\source\Repository-C-primer-plus\try\001子文件3.cpp(14,32): error C2065: 'trans': undeclared identifier
+C:\Users\yquan\source\Repository-C-primer-plus\try\001子文件3.cpp(16,16): error C2065: 'total': undeclared identifier
+C:\Users\yquan\source\Repository-C-primer-plus\try\001子文件3.cpp(16,25): error C2065: 'trans': undeclared identifier
+C:\Users\yquan\source\Repository-C-primer-plus\try\001子文件3.cpp(20,24): error C2065: 'total': undeclared identifier
+C:\Users\yquan\source\Repository-C-primer-plus\try\001子文件3.cpp(21,16): error C2065: 'total': undeclared identifier
+C:\Users\yquan\source\Repository-C-primer-plus\try\001子文件3.cpp(21,24): error C2065: 'trans': undeclared identifier
+  001快速入门.cpp
+C:\Users\yquan\source\Repository-C-primer-plus\try\001快速入门.cpp(4,10): fatal error C1083: Cannot open include file: 'Dog.h': No such file or directory
+  001快速开发入门.cpp
+  002.基本内置类型.cpp
+C:\Users\yquan\source\Repository-C-primer-plus\try\002.基本内置类型.cpp(21,6): warning C4101: 'a': unreferenced local variable
+  002.子文件1.cpp
+  002子文件2.cpp
+C:\Users\yquan\source\Repository-C-primer-plus\try\002子文件2.cpp(22,10): warning C4305: '=': truncation from 'int' to 'unsigned char'
+C:\Users\yquan\source\Repository-C-primer-plus\try\002子文件2.cpp(22,7): warning C4309: '=': truncation of constant value
+C:\Users\yquan\source\Repository-C-primer-plus\try\002子文件2.cpp(15,7): warning C4101: 'm': unreferenced local variable
+C:\Users\yquan\source\Repository-C-primer-plus\try\002子文件2.cpp(18,14): warning C4101: 'm2': unreferenced local variable
+C:\Users\yquan\source\Repository-C-primer-plus\try\002子文件2.cpp(7,13): warning C4101: 'a': unreferenced local variable
+C:\Users\yquan\source\Repository-C-primer-plus\try\002子文件2.cpp(12,17): warning C4101: 'b2': unreferenced local variable
+C:\Users\yquan\source\Repository-C-primer-plus\try\002子文件2.cpp(11,15): warning C4101: 'a2': unreferenced local variable
+C:\Users\yquan\source\Repository-C-primer-plus\try\002子文件2.cpp(8,8): warning C4101: 'b': unreferenced local variable
+C:\Users\yquan\source\Repository-C-primer-plus\try\002子文件2.cpp(9,7): warning C4101: 'c': unreferenced local variable
+C:\Users\yquan\source\Repository-C-primer-plus\try\002子文件2.cpp(13,16): warning C4101: 'c2': unreferenced local variable
+  004.类定义.cpp
+  005.隐含的this指针.cpp
+  006.变量名.cpp
+C:\Users\yquan\source\Repository-C-primer-plus\try\006.变量名.cpp(12,6): warning C4101: 'a_b': unreferenced local variable
+C:\Users\yquan\source\Repository-C-primer-plus\try\006.变量名.cpp(11,6): warning C4101: 'a': unreferenced local variable
+C:\Users\yquan\source\Repository-C-primer-plus\try\006.变量名.cpp(13,6): warning C4101: '_a': unreferenced local variable
+  006类作用域.cpp
+  007.定义对象.cpp
+C:\Users\yquan\source\Repository-C-primer-plus\try\007.定义对象.cpp(16,9): warning C4101: 'sales_price': unreferenced local variable
+C:\Users\yquan\source\Repository-C-primer-plus\try\007.定义对象.cpp(16,22): warning C4101: 'avg_price': unreferenced local variable
+C:\Users\yquan\source\Repository-C-primer-plus\try\007.定义对象.cpp(15,6): warning C4101: 'units_sold': unreferenced local variable
+C:\Users\yquan\source\Repository-C-primer-plus\try\007.定义对象.cpp(19,13): warning C4101: 'curr_book': unreferenced local variable
+  007.构造函数.cpp
+  008.友元.cpp
+  008.声明和定义.cpp
+  009.名字的作用域.cpp
+  010.const限定符.cpp
+C:\Users\yquan\source\Repository-C-primer-plus\try\010.const限定符.cpp(5,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  011.引用.cpp
+C:\Users\yquan\source\Repository-C-primer-plus\try\011.引用.cpp(14,7): error C2040: 'ival': 'int &' differs in levels of indirection from 'int'
+  012._typedef.cpp
+  Generating Code...
+  Compiling...
+  013.枚举.cpp
+  014.类类型.cpp
+  015.头文件.cpp
+C:\Users\yquan\source\Repository-C-primer-plus\try\015.头文件.cpp(2,10): fatal error C1083: Cannot open include file: '015.头文件.h': No such file or directory
+  016.命名空间的using声明.cpp
+  017.子文件1.cpp
+  017.标准库_string_类型.cpp
+  018.标准库_string_类型.cpp
+  019.习题.cpp
+  019.子文件1.cpp
+  019.子文件2.cpp
+  020.string类型_.cpp
+  020.习题.cpp
+  020.子文件1.cpp
+  021.vector类型.cpp
+  021.子文件1.cpp
+  021.子文件2.cpp
+C:\Users\yquan\source\Repository-C-primer-plus\try\021.子文件2.cpp(13,6): warning C4101: 'a': unreferenced local variable
+  022.习题解答.cpp
+  022.子文件1.cpp
+  022.子文件2.cpp
+  023.标准库_迭代器简介.cpp
+  Generating Code...
+  Compiling...
+  024.二进制和十六进制.cpp
+  025.子文件1.cpp
+  025.子文件2.cpp
+  025.子文件3.cpp
+  025.标准库_bitset.cpp
+  026.艾拉托斯特尼-筛法.cpp
+  027.子文件1.cpp
+  027.数组.cpp
+C:\Users\yquan\source\Repository-C-primer-plus\try\027.数组.cpp(32,6): warning C4101: 'a': unreferenced local variable
+C:\Users\yquan\source\Repository-C-primer-plus\try\027.数组.cpp(39,7): warning C4101: 'input_buffer': unreferenced local variable
+  028.子文件1.cpp
+  028.指针.cpp
+C:\Users\yquan\source\Repository-C-primer-plus\try\028.指针.cpp(40,7): warning C4101: 'pi3': unreferenced local variable
+C:\Users\yquan\source\Repository-C-primer-plus\try\028.指针.cpp(33,7): warning C4101: 'ip1': unreferenced local variable
+C:\Users\yquan\source\Repository-C-primer-plus\try\028.指针.cpp(43,6): warning C4101: 'ival2': unreferenced local variable
+C:\Users\yquan\source\Repository-C-primer-plus\try\028.指针.cpp(33,12): warning C4101: 'ip2': unreferenced local variable
+C:\Users\yquan\source\Repository-C-primer-plus\try\028.指针.cpp(32,15): warning C4101: 'pvec': unreferenced local variable
+  029.使用指针访问数组.cpp
+  030.指针和const限定符.cpp
+C:\Users\yquan\source\Repository-C-primer-plus\try\030.指针和const限定符.cpp(67,16): warning C4101: 'cstr2': unreferenced local variable
+  032.创建动态数组.cpp
+C:\Users\yquan\source\Repository-C-primer-plus\try\032.创建动态数组.cpp(23,6): warning C4101: 'a': unreferenced local variable
+  032.子文件1.cpp
+  032.子文件2.cpp
+  033.vector到数组1.cpp
+  033.vector到数组2.cpp
+C:\Users\yquan\source\Repository-C-primer-plus\try\033.vector到数组2.cpp(28,3): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  033.新旧代码兼容.cpp
+  034.多维数组.cpp
+  035.算数操作符.cpp
+C:\Users\yquan\source\Repository-C-primer-plus\try\035.算数操作符.cpp(24,7): warning C4101: 'a': unreferenced local variable
+C:\Users\yquan\source\Repository-C-primer-plus\try\035.算数操作符.cpp(26,8): warning C4101: 'f': unreferenced local variable
+C:\Users\yquan\source\Repository-C-primer-plus\try\035.算数操作符.cpp(25,9): warning C4101: 'd': unreferenced local variable
+  Generating Code...
+  Compiling...
+  036.关系操作符.cpp
+  036.指针与短路运算.cpp
+  036.短路求值.cpp
+  036.逻辑操作符.cpp
+C:\Users\yquan\source\Repository-C-primer-plus\try\036.逻辑操作符.cpp(13,9): warning C4305: '=': truncation from 'int' to 'bool'
+  037.bitset对象.cpp
+  037.位操作符.cpp
+  037.重载.cpp
+  038.子文件1.cpp
+  038.赋值操作符.cpp
+C:\Users\yquan\source\Repository-C-primer-plus\try\038.赋值操作符.cpp(25,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\yquan\source\Repository-C-primer-plus\try\038.赋值操作符.cpp(27,8): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\yquan\source\Repository-C-primer-plus\try\038.赋值操作符.cpp(23,9): warning C4101: 'j': unreferenced local variable
+C:\Users\yquan\source\Repository-C-primer-plus\try\038.赋值操作符.cpp(23,12): warning C4101: 'ival': unreferenced local variable
+C:\Users\yquan\source\Repository-C-primer-plus\try\038.赋值操作符.cpp(23,18): warning C4101: 'jval': unreferenced local variable
+  039.自增自减操作符.cpp
+  040.习题.cpp
+  040.箭头操作符.cpp
+  041.a条件操作符.cpp
+  041.sizeof操作符.cpp
+C:\Users\yquan\source\Repository-C-primer-plus\try\041.sizeof操作符.cpp(16,6): warning C4101: 'a': unreferenced local variable
+  041.逗号操作符.cpp
+  042.new_delete.cpp
+C:\Users\yquan\source\Repository-C-primer-plus\try\042.new_delete.cpp(41,6): warning C4930: 'Dog dog2(void)': prototyped function not called (was a variable definition intended?)
+C:\Users\yquan\source\Repository-C-primer-plus\try\042.new_delete.cpp(40,6): warning C4101: 'dog': unreferenced local variable
+  043.类型转换运算符.cpp
+C:\Users\yquan\source\Repository-C-primer-plus\try\043.类型转换运算符.cpp(68,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  2.3.cpp
+  C风格的字符串.cpp
+C:\Users\yquan\source\Repository-C-primer-plus\try\C风格的字符串.cpp(37,21): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\yquan\source\Repository-C-primer-plus\try\C风格的字符串.cpp(37,26): warning C4305: 'initializing': truncation from 'int' to 'char'
+C:\Users\yquan\source\Repository-C-primer-plus\try\C风格的字符串.cpp(37,21): warning C4309: 'initializing': truncation of constant value
+  变量.cpp
+  Generating Code...
+  Compiling...
+  字符串字面值.cpp
+  字符串字面值连接.cpp
+  字符字面值.cpp
+  左值右值.cpp
+  布尔字面值.cpp
+  指数计算.cpp
+  整型字面值.cpp
+C:\Users\yquan\source\Repository-C-primer-plus\try\整型字面值.cpp(13,12): warning C4101: 'm': unreferenced local variable
+C:\Users\yquan\source\Repository-C-primer-plus\try\整型字面值.cpp(15,15): warning C4101: 'p': unreferenced local variable
+C:\Users\yquan\source\Repository-C-primer-plus\try\整型字面值.cpp(12,7): warning C4101: 'y': unreferenced local variable
+C:\Users\yquan\source\Repository-C-primer-plus\try\整型字面值.cpp(11,8): warning C4101: 'x': unreferenced local variable
+  浮点字面值.cpp
+  非打印字符的转义序列.cpp
+  Generating Code...

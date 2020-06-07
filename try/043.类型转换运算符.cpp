@@ -14,7 +14,7 @@ using namespace std;
 
 					//旧式强制类型转换 —— 传统C风格类型转换
 					//避免使用强制类型转换
-
+ 
 
 class Canimal     //基类
 {

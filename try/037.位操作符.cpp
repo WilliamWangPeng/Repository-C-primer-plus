@@ -17,7 +17,7 @@ int main()
 //比特位取反操作
 	bits = ~bits;   //取反操作,01101000
 	cout << (int)bits << endl;
-
+	 
 
 //比特位向左移动
 	bits = 1;   //00000001

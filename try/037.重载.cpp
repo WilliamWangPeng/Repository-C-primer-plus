@@ -19,3 +19,4 @@ int main()
 	cout << (10 < 42) << endl;
 	return 0;
 }
+ 
