@@ -175,6 +175,9 @@
     <Filter Include="Source Files\C++primer 初级\047.while语句">
       <UniqueIdentifier>{14d2a6d0-0cfb-4027-ac49-03ae6a9a2045}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\C++primer 初级\048._for_语句">
+      <UniqueIdentifier>{d95fa11d-f199-44ff-838f-d38df3d97e2f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\try\001子文件3.cpp">
