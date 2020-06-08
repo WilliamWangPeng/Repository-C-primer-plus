@@ -109,6 +109,10 @@
     <ClCompile Include="..\try\049.例子.cpp" />
     <ClCompile Include="..\try\049.示例2.cpp" />
     <ClCompile Include="..\try\050.break语句.cpp" />
+    <ClCompile Include="..\try\050._continue_语句.cpp" />
+    <ClCompile Include="..\try\051.传统方法.cpp" />
+    <ClCompile Include="..\try\051.抛出对象.cpp" />
+    <ClCompile Include="..\try\051.新写法.cpp" />
     <ClCompile Include="..\try\2.3.cpp" />
     <ClCompile Include="..\try\46.a_switch_语句.cpp" />
     <ClCompile Include="..\try\C风格的字符串.cpp" />

@@ -184,6 +184,9 @@
     <Filter Include="Source Files\C++primer 初级\050._break_continue_goto语句">
       <UniqueIdentifier>{5c152cfb-b291-4e54-b321-942f6edf8dcb}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\C++primer 初级\051.异常_%281%29">
+      <UniqueIdentifier>{69c7bef1-c6d3-416c-a4af-87fee87e3277}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\try\001子文件3.cpp">
@@ -360,9 +363,6 @@
     <ClCompile Include="..\try\029.使用指针访问数组.cpp">
       <Filter>Source Files\C++primer 初级\029.指针%28使用指针访问数组%29</Filter>
     </ClCompile>
-    <ClCompile Include="..\try\C风格的字符串.cpp">
-      <Filter>Source Files\C++primer 初级\031.C风格字符串</Filter>
-    </ClCompile>
     <ClCompile Include="..\try\032.创建动态数组.cpp">
       <Filter>Source Files\C++primer 初级\032.创建动态数组</Filter>
     </ClCompile>
@@ -494,6 +494,21 @@
     </ClCompile>
     <ClCompile Include="..\try\050.break语句.cpp">
       <Filter>Source Files\C++primer 初级\050._break_continue_goto语句</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\050._continue_语句.cpp">
+      <Filter>Source Files\C++primer 初级\050._break_continue_goto语句</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\051.新写法.cpp">
+      <Filter>Source Files\C++primer 初级\051.异常_%281%29</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\051.传统方法.cpp">
+      <Filter>Source Files\C++primer 初级\051.异常_%281%29</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\051.抛出对象.cpp">
+      <Filter>Source Files\C++primer 初级\051.异常_%281%29</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\C风格的字符串.cpp">
+      <Filter>Source Files\C++primer 初级\031.C风格字符串</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

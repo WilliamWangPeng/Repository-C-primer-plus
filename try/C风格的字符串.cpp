@@ -75,6 +75,8 @@ int main()
 	//cp1=cp2;    //但C语言只是把cp2的地址赋给了cp1
 
 
+	//strcpy_s还是strcpy待探究,而且此程序存在错误
+
 //C风格字符串的标准库函数;
 	char large[10];
 	strcpy_s(large, cp1);   //拷贝功能;  C语言的库函数strcpy_s()可以实现拷贝值的功能;cp1是一个指针   
