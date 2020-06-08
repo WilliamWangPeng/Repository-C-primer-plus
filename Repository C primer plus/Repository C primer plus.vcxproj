@@ -103,6 +103,12 @@
     <ClCompile Include="..\try\047.while示例1.cpp" />
     <ClCompile Include="..\try\047.a-while语句.cpp" />
     <ClCompile Include="..\try\047.while示例2.cpp" />
+    <ClCompile Include="..\try\048._for_语句.cpp" />
+    <ClCompile Include="..\try\048.习题.cpp" />
+    <ClCompile Include="..\try\049._do_while_语句.cpp" />
+    <ClCompile Include="..\try\049.例子.cpp" />
+    <ClCompile Include="..\try\049.示例2.cpp" />
+    <ClCompile Include="..\try\050.break语句.cpp" />
     <ClCompile Include="..\try\2.3.cpp" />
     <ClCompile Include="..\try\46.a_switch_语句.cpp" />
     <ClCompile Include="..\try\C风格的字符串.cpp" />

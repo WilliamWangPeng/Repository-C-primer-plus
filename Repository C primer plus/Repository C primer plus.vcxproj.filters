@@ -178,6 +178,12 @@
     <Filter Include="Source Files\C++primer 初级\048._for_语句">
       <UniqueIdentifier>{d95fa11d-f199-44ff-838f-d38df3d97e2f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\C++primer 初级\049._do_while_语句">
+      <UniqueIdentifier>{5ac04df7-a21c-4ff6-b3cb-aec6bb8bfe8c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\050._break_continue_goto语句">
+      <UniqueIdentifier>{5c152cfb-b291-4e54-b321-942f6edf8dcb}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\try\001子文件3.cpp">
@@ -470,6 +476,24 @@
     </ClCompile>
     <ClCompile Include="..\try\047.while示例2.cpp">
       <Filter>Source Files\C++primer 初级\047.while语句</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\048._for_语句.cpp">
+      <Filter>Source Files\C++primer 初级\048._for_语句</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\048.习题.cpp">
+      <Filter>Source Files\C++primer 初级\048._for_语句</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\049._do_while_语句.cpp">
+      <Filter>Source Files\C++primer 初级\049._do_while_语句</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\049.例子.cpp">
+      <Filter>Source Files\C++primer 初级\049._do_while_语句</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\049.示例2.cpp">
+      <Filter>Source Files\C++primer 初级\049._do_while_语句</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\050.break语句.cpp">
+      <Filter>Source Files\C++primer 初级\050._break_continue_goto语句</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
