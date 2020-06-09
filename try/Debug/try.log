@@ -1,5 +1,2 @@
-﻿  C风格的字符串.cpp
-C:\Users\yquan\source\Repository-C-primer-plus\try\C风格的字符串.cpp(37,21): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
-C:\Users\yquan\source\Repository-C-primer-plus\try\C风格的字符串.cpp(37,26): warning C4305: 'initializing': truncation from 'int' to 'char'
-C:\Users\yquan\source\Repository-C-primer-plus\try\C风格的字符串.cpp(37,21): warning C4309: 'initializing': truncation of constant value
+﻿  052.exception.cpp
   try.vcxproj -> C:\Users\yquan\source\Repository-C-primer-plus\Repository C primer plus\Debug\try.exe

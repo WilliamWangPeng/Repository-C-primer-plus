@@ -187,6 +187,12 @@
     <Filter Include="Source Files\C++primer 初级\051.异常_%281%29">
       <UniqueIdentifier>{69c7bef1-c6d3-416c-a4af-87fee87e3277}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\C++primer 初级\052.标准异常">
+      <UniqueIdentifier>{779e1230-2e73-47eb-9092-8646188dc18d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\053.使用预处理其进行调试">
+      <UniqueIdentifier>{436f129d-3566-4355-ad77-817d86432b51}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\try\001子文件3.cpp">
@@ -510,5 +516,22 @@
     <ClCompile Include="..\try\C风格的字符串.cpp">
       <Filter>Source Files\C++primer 初级\031.C风格字符串</Filter>
     </ClCompile>
+    <ClCompile Include="..\try\052.bad_alloc.cpp">
+      <Filter>Source Files\C++primer 初级\052.标准异常</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\052.invalid_argument.cpp">
+      <Filter>Source Files\C++primer 初级\052.标准异常</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\052.out_of_range.cpp">
+      <Filter>Source Files\C++primer 初级\052.标准异常</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\052.exception.cpp">
+      <Filter>Source Files\C++primer 初级\052.标准异常</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\try\Header.h">
+      <Filter>Source Files\C++primer 初级\052.标准异常</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
