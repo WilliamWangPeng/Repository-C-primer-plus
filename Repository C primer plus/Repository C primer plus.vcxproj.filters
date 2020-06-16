@@ -190,8 +190,26 @@
     <Filter Include="Source Files\C++primer 初级\052.标准异常">
       <UniqueIdentifier>{779e1230-2e73-47eb-9092-8646188dc18d}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Source Files\C++primer 初级\053.使用预处理其进行调试">
+    <Filter Include="Source Files\C++primer 初级\053.使用预处理器进行调试">
       <UniqueIdentifier>{436f129d-3566-4355-ad77-817d86432b51}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\054.函数的定义">
+      <UniqueIdentifier>{572dd243-7ee3-41ca-9959-d008a916a389}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\055.函数_非引用形参">
+      <UniqueIdentifier>{e221390e-8c93-4791-9007-6d13136d6254}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\056.引用形参">
+      <UniqueIdentifier>{3cacd276-7b73-49e2-9c7b-fbb880453aa9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\057.函数_vector和其他容器类型的形参">
+      <UniqueIdentifier>{8c6fea1c-3e89-4c37-81c4-c2191b1cab08}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\058.数组形参">
+      <UniqueIdentifier>{d7f9e7bc-c49b-49b5-8af3-b4d3db023e9c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\059.函数_main命令行选项">
+      <UniqueIdentifier>{96a3ed6c-8601-46b2-805c-e67b206dd690}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -527,6 +545,48 @@
     </ClCompile>
     <ClCompile Include="..\try\052.exception.cpp">
       <Filter>Source Files\C++primer 初级\052.标准异常</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\053.使用预处理器进行调试.cpp">
+      <Filter>Source Files\C++primer 初级\053.使用预处理器进行调试</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\053.输入单词-判断有无相邻重复.cpp">
+      <Filter>Source Files\C++primer 初级\053.使用预处理器进行调试</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\054.函数的定义.cpp">
+      <Filter>Source Files\C++primer 初级\054.函数的定义</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\055.初步示例.cpp">
+      <Filter>Source Files\C++primer 初级\055.函数_非引用形参</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\055.交换示例.cpp">
+      <Filter>Source Files\C++primer 初级\055.函数_非引用形参</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\055.const非引用形参.cpp">
+      <Filter>Source Files\C++primer 初级\055.函数_非引用形参</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\055.const非引用形参2.cpp">
+      <Filter>Source Files\C++primer 初级\055.函数_非引用形参</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\056.引用形参.cpp">
+      <Filter>Source Files\C++primer 初级\056.引用形参</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\056.const引用形参.cpp">
+      <Filter>Source Files\C++primer 初级\056.引用形参</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\056.指向指针的引用.cpp">
+      <Filter>Source Files\C++primer 初级\056.引用形参</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\057.vector和其他容器类型的形参.cpp">
+      <Filter>Source Files\C++primer 初级\057.函数_vector和其他容器类型的形参</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\058.数组形参.cpp">
+      <Filter>Source Files\C++primer 初级\058.数组形参</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\059.main命令行选项.cpp">
+      <Filter>Source Files\C++primer 初级\059.函数_main命令行选项</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\059.示例2.cpp">
+      <Filter>Source Files\C++primer 初级\059.函数_main命令行选项</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
