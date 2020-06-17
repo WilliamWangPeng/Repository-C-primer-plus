@@ -124,13 +124,19 @@
     <ClCompile Include="..\try\055.const非引用形参.cpp" />
     <ClCompile Include="..\try\055.交换示例.cpp" />
     <ClCompile Include="..\try\055.初步示例.cpp" />
+    <ClCompile Include="..\try\056.aa-引用形参.cpp" />
     <ClCompile Include="..\try\056.const引用形参.cpp" />
-    <ClCompile Include="..\try\056.引用形参.cpp" />
     <ClCompile Include="..\try\056.指向指针的引用.cpp" />
     <ClCompile Include="..\try\057.vector和其他容器类型的形参.cpp" />
     <ClCompile Include="..\try\058.数组形参.cpp" />
     <ClCompile Include="..\try\059.main命令行选项.cpp" />
     <ClCompile Include="..\try\059.示例2.cpp" />
+    <ClCompile Include="..\try\060.aa-主函数main的返回值.cpp" />
+    <ClCompile Include="..\try\060.返回左值.cpp" />
+    <ClCompile Include="..\try\060.返回引用、返回局部对象.cpp" />
+    <ClCompile Include="..\try\061.什么是递归.cpp" />
+    <ClCompile Include="..\try\062.myfunc.cpp" />
+    <ClCompile Include="..\try\062.函数声明-主函数.cpp" />
     <ClCompile Include="..\try\2.3.cpp" />
     <ClCompile Include="..\try\46.a_switch_语句.cpp" />
     <ClCompile Include="..\try\C风格的字符串.cpp" />
@@ -144,8 +150,10 @@
     <ClCompile Include="..\try\整型字面值.cpp" />
     <ClCompile Include="..\try\浮点字面值.cpp" />
     <ClCompile Include="..\try\非打印字符的转义序列.cpp" />
+    <ClCompile Include="063.略.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\try\062.myfunc.h" />
     <ClInclude Include="..\try\Header.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

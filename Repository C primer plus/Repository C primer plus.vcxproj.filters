@@ -211,6 +211,18 @@
     <Filter Include="Source Files\C++primer 初级\059.函数_main命令行选项">
       <UniqueIdentifier>{96a3ed6c-8601-46b2-805c-e67b206dd690}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\C++primer 初级\060.函数_return_语句">
+      <UniqueIdentifier>{cc9344e1-f2a8-48ab-b1e0-bd09ae1f8c40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\061.什么是递归">
+      <UniqueIdentifier>{18ec14cf-6371-4d13-9053-6eb6751ffff4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\062.函数声明">
+      <UniqueIdentifier>{1836ef1d-c07c-49fc-8c33-1c3792a2c3a5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\063.局部变量">
+      <UniqueIdentifier>{f5989311-f9e8-41a2-9c51-30ec9866a022}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\try\001子文件3.cpp">
@@ -567,9 +579,6 @@
     <ClCompile Include="..\try\055.const非引用形参2.cpp">
       <Filter>Source Files\C++primer 初级\055.函数_非引用形参</Filter>
     </ClCompile>
-    <ClCompile Include="..\try\056.引用形参.cpp">
-      <Filter>Source Files\C++primer 初级\056.引用形参</Filter>
-    </ClCompile>
     <ClCompile Include="..\try\056.const引用形参.cpp">
       <Filter>Source Files\C++primer 初级\056.引用形参</Filter>
     </ClCompile>
@@ -588,10 +597,37 @@
     <ClCompile Include="..\try\059.示例2.cpp">
       <Filter>Source Files\C++primer 初级\059.函数_main命令行选项</Filter>
     </ClCompile>
+    <ClCompile Include="..\try\056.aa-引用形参.cpp">
+      <Filter>Source Files\C++primer 初级\056.引用形参</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\060.aa-主函数main的返回值.cpp">
+      <Filter>Source Files\C++primer 初级\060.函数_return_语句</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\060.返回引用、返回局部对象.cpp">
+      <Filter>Source Files\C++primer 初级\060.函数_return_语句</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\060.返回左值.cpp">
+      <Filter>Source Files\C++primer 初级\060.函数_return_语句</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\061.什么是递归.cpp">
+      <Filter>Source Files\C++primer 初级\061.什么是递归</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\062.myfunc.cpp">
+      <Filter>Source Files\C++primer 初级\062.函数声明</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\062.函数声明-主函数.cpp">
+      <Filter>Source Files\C++primer 初级\062.函数声明</Filter>
+    </ClCompile>
+    <ClCompile Include="063.略.cpp">
+      <Filter>Source Files\C++primer 初级\063.局部变量</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\try\Header.h">
       <Filter>Source Files\C++primer 初级\052.标准异常</Filter>
+    </ClInclude>
+    <ClInclude Include="..\try\062.myfunc.h">
+      <Filter>Source Files\C++primer 初级\062.函数声明</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
