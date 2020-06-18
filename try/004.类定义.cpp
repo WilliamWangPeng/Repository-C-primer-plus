@@ -1,5 +1,4 @@
-// C++primer中级.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+
 
 #include <iostream>
 #include <string>
@@ -7,7 +6,8 @@ using namespace std;
 
 class Screen;
 //struct Glue;//此处定义不完整，会报错;
-			//类声明，C语言流传下来的写法，在C++中，用法与class一致,仅默认对象类型不同,class默认为private,struct默认为public
+			//类声明，C语言流传下来的写法，在C++中，用法与class一致,仅默认对象类型不同
+			//class默认为private,struct默认为public;
 
 class LinkScreen     //可在类定义内部定义指向自己的指针、对象
 {
@@ -96,14 +96,3 @@ int main()
 	cout << " " << endl;
 	return 0;
 }
-
-// Run program: Ctrl + F5 or Debug > Start Without Debugging menu
-// Debug program: F5 or Debug > Start Debugging menu
-
-// Tips for Getting Started: 
-//   1. Use the Solution Explorer window to add/manage files
-//   2. Use the Team Explorer window to connect to source control
-//   3. Use the Output window to see build output and other messages
-//   4. Use the Error List window to view errors
-//   5. Go to Project > Add New Item to create new code files, or Project > Add Existing Item to add existing code files to the project
-//   6. In the future, to open this project again, go to File > Open > Project and select the .sln file

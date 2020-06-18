@@ -223,6 +223,18 @@
     <Filter Include="Source Files\C++primer 初级\063.局部变量">
       <UniqueIdentifier>{f5989311-f9e8-41a2-9c51-30ec9866a022}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\C++primer 初级\064.内联函数">
+      <UniqueIdentifier>{3253afe1-627c-4cac-a026-c25af4f309af}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\065.类的成员函数">
+      <UniqueIdentifier>{adb71f2e-67f4-4c31-9bec-109782a0cac9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\066.类的构造函数">
+      <UniqueIdentifier>{b29770bb-82ff-44a8-ad80-232c9dfbde05}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\067.重载函数">
+      <UniqueIdentifier>{029c47fb-5dab-4bde-a8d3-49f17a2c6635}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\try\001子文件3.cpp">
@@ -621,6 +633,27 @@
     <ClCompile Include="063.略.cpp">
       <Filter>Source Files\C++primer 初级\063.局部变量</Filter>
     </ClCompile>
+    <ClCompile Include="..\try\064.内联函数.cpp">
+      <Filter>Source Files\C++primer 初级\064.内联函数</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\065.类的成员函数.cpp">
+      <Filter>Source Files\C++primer 初级\065.类的成员函数</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\066.Source.cpp">
+      <Filter>Source Files\C++primer 初级\066.类的构造函数</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\066.全局、静态对象.cpp">
+      <Filter>Source Files\C++primer 初级\066.类的构造函数</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\066.aa-类的构造函数.cpp">
+      <Filter>Source Files\C++primer 初级\066.类的构造函数</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\067.aa-函数重载.cpp">
+      <Filter>Source Files\C++primer 初级\067.重载函数</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\067.重载(不同类）.cpp">
+      <Filter>Source Files\C++primer 初级\067.重载函数</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\try\Header.h">
@@ -628,6 +661,12 @@
     </ClInclude>
     <ClInclude Include="..\try\062.myfunc.h">
       <Filter>Source Files\C++primer 初级\062.函数声明</Filter>
+    </ClInclude>
+    <ClInclude Include="..\try\064.Header.h">
+      <Filter>Source Files\C++primer 初级\064.内联函数</Filter>
+    </ClInclude>
+    <ClInclude Include="..\try\066.Header.h">
+      <Filter>Source Files\C++primer 初级\066.类的构造函数</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
