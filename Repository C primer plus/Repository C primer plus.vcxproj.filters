@@ -489,9 +489,6 @@
     <ClCompile Include="..\try\046.示例.cpp">
       <Filter>Source Files\C++primer 初级\046._switch_语句</Filter>
     </ClCompile>
-    <ClCompile Include="..\try\46.a_switch_语句.cpp">
-      <Filter>Source Files\C++primer 初级\046._switch_语句</Filter>
-    </ClCompile>
     <ClCompile Include="..\try\047.while示例1.cpp">
       <Filter>Source Files\C++primer 初级\047.while语句</Filter>
     </ClCompile>
@@ -677,6 +674,9 @@
     </ClCompile>
     <ClCompile Include="..\try\003.习题2.4.cpp">
       <Filter>Source Files\C++primer 初级\003.习题解答</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\046.a_switch_语句.cpp">
+      <Filter>Source Files\C++primer 初级\046._switch_语句</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

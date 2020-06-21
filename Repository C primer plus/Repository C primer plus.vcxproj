@@ -148,7 +148,7 @@
     <ClCompile Include="..\try\068.函数屏蔽.cpp" />
     <ClCompile Include="..\try\069.函数匹配.cpp" />
     <ClCompile Include="..\try\070.实参类型转换.cpp" />
-    <ClCompile Include="..\try\46.a_switch_语句.cpp" />
+    <ClCompile Include="..\try\046.a_switch_语句.cpp" />
     <ClCompile Include="..\try\031.C风格的字符串.cpp" />
     <ClCompile Include="..\try\005.变量.cpp" />
     <ClCompile Include="..\try\004.字符串字面值.cpp" />
