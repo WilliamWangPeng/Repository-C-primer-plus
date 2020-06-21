@@ -639,9 +639,6 @@
     <ClCompile Include="..\try\070.实参类型转换.cpp">
       <Filter>Source Files\C++primer 初级\070.实参类型转换</Filter>
     </ClCompile>
-    <ClCompile Include="..\try\003. 2.3.cpp">
-      <Filter>Source Files\C++primer 初级\003.习题解答</Filter>
-    </ClCompile>
     <ClCompile Include="..\try\004.布尔字面值.cpp">
       <Filter>Source Files\C++primer 初级\004.字面值常量</Filter>
     </ClCompile>
@@ -675,11 +672,14 @@
     <ClCompile Include="..\try\031.C风格的字符串.cpp">
       <Filter>Source Files\C++primer 初级\031.C风格字符串</Filter>
     </ClCompile>
+    <ClCompile Include="..\try\003.习题2.3.cpp">
+      <Filter>Source Files\C++primer 初级\003.习题解答</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\003.习题2.4.cpp">
+      <Filter>Source Files\C++primer 初级\003.习题解答</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\try\Header.h">
-      <Filter>Source Files\C++primer 初级\052.标准异常</Filter>
-    </ClInclude>
     <ClInclude Include="..\try\062.myfunc.h">
       <Filter>Source Files\C++primer 初级\062.函数声明</Filter>
     </ClInclude>
@@ -688,6 +688,9 @@
     </ClInclude>
     <ClInclude Include="..\try\066.Header.h">
       <Filter>Source Files\C++primer 初级\066.类的构造函数</Filter>
+    </ClInclude>
+    <ClInclude Include="..\try\052.Header.h">
+      <Filter>Source Files\C++primer 初级\052.标准异常</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
