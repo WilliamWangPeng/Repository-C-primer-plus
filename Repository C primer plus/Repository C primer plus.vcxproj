@@ -163,6 +163,7 @@
     <ClCompile Include="..\try\004.非打印字符的转义序列.cpp" />
     <ClCompile Include="..\try\003.习题2.3.cpp" />
     <ClCompile Include="..\try\003.习题2.4.cpp" />
+    <ClCompile Include="..\try\071.指向函数的指针.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\try\062.myfunc.h" />

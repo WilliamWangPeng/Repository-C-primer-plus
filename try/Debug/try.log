@@ -1,4 +1,2 @@
-﻿  070.cpp
-C:\Users\yquan\source\Repository-C-primer-plus\try\070.cpp(48,16): error C2084: function 'void f(int *const )' already has a body
-C:\Users\yquan\source\Repository-C-primer-plus\try\070.cpp(47): message : see previous definition of 'f'
-C:\Users\yquan\source\Repository-C-primer-plus\try\070.cpp(64,6): error C2264: 'f': error in function definition or declaration; function not called
+﻿  071.cpp
+  try.vcxproj -> C:\Users\yquan\source\Repository-C-primer-plus\Repository C primer plus\Debug\try.exe

@@ -244,6 +244,9 @@
     <Filter Include="Source Files\C++primer 初级\070.实参类型转换">
       <UniqueIdentifier>{aa38e13d-3118-4a3d-beac-7a5e4d45a469}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\C++primer 初级\071.指向函数的指针">
+      <UniqueIdentifier>{507bc15a-ad75-4247-bb27-6817ac76fcee}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\try\001子文件3.cpp">
@@ -677,6 +680,9 @@
     </ClCompile>
     <ClCompile Include="..\try\063.略.cpp">
       <Filter>Source Files\C++primer 初级\063.局部变量</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\071.指向函数的指针.cpp">
+      <Filter>Source Files\C++primer 初级\071.指向函数的指针</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
