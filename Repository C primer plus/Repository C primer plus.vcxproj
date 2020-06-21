@@ -148,19 +148,19 @@
     <ClCompile Include="..\try\068.函数屏蔽.cpp" />
     <ClCompile Include="..\try\069.函数匹配.cpp" />
     <ClCompile Include="..\try\070.实参类型转换.cpp" />
-    <ClCompile Include="..\try\2.3.cpp" />
+    <ClCompile Include="..\try\003. 2.3.cpp" />
     <ClCompile Include="..\try\46.a_switch_语句.cpp" />
-    <ClCompile Include="..\try\C风格的字符串.cpp" />
-    <ClCompile Include="..\try\变量.cpp" />
-    <ClCompile Include="..\try\字符串字面值.cpp" />
-    <ClCompile Include="..\try\字符串字面值连接.cpp" />
-    <ClCompile Include="..\try\字符字面值.cpp" />
-    <ClCompile Include="..\try\左值右值.cpp" />
-    <ClCompile Include="..\try\布尔字面值.cpp" />
-    <ClCompile Include="..\try\指数计算.cpp" />
-    <ClCompile Include="..\try\整型字面值.cpp" />
-    <ClCompile Include="..\try\浮点字面值.cpp" />
-    <ClCompile Include="..\try\非打印字符的转义序列.cpp" />
+    <ClCompile Include="..\try\031.C风格的字符串.cpp" />
+    <ClCompile Include="..\try\005.变量.cpp" />
+    <ClCompile Include="..\try\004.字符串字面值.cpp" />
+    <ClCompile Include="..\try\004.字符串字面值连接.cpp" />
+    <ClCompile Include="..\try\004.字符字面值.cpp" />
+    <ClCompile Include="..\try\005.左值右值.cpp" />
+    <ClCompile Include="..\try\004.布尔字面值.cpp" />
+    <ClCompile Include="..\try\005.指数计算.cpp" />
+    <ClCompile Include="..\try\004.整型字面值.cpp" />
+    <ClCompile Include="..\try\004.浮点字面值.cpp" />
+    <ClCompile Include="..\try\004.非打印字符的转义序列.cpp" />
     <ClCompile Include="063.略.cpp" />
   </ItemGroup>
   <ItemGroup>

@@ -270,39 +270,6 @@
     <ClCompile Include="..\try\002子文件2.cpp">
       <Filter>Source Files\C++primer 初级\002.基本内置类型</Filter>
     </ClCompile>
-    <ClCompile Include="..\try\2.3.cpp">
-      <Filter>Source Files\C++primer 初级\003.习题解答</Filter>
-    </ClCompile>
-    <ClCompile Include="..\try\字符串字面值.cpp">
-      <Filter>Source Files\C++primer 初级\004.字面值常量</Filter>
-    </ClCompile>
-    <ClCompile Include="..\try\字符串字面值连接.cpp">
-      <Filter>Source Files\C++primer 初级\004.字面值常量</Filter>
-    </ClCompile>
-    <ClCompile Include="..\try\字符字面值.cpp">
-      <Filter>Source Files\C++primer 初级\004.字面值常量</Filter>
-    </ClCompile>
-    <ClCompile Include="..\try\布尔字面值.cpp">
-      <Filter>Source Files\C++primer 初级\004.字面值常量</Filter>
-    </ClCompile>
-    <ClCompile Include="..\try\整型字面值.cpp">
-      <Filter>Source Files\C++primer 初级\004.字面值常量</Filter>
-    </ClCompile>
-    <ClCompile Include="..\try\浮点字面值.cpp">
-      <Filter>Source Files\C++primer 初级\004.字面值常量</Filter>
-    </ClCompile>
-    <ClCompile Include="..\try\非打印字符的转义序列.cpp">
-      <Filter>Source Files\C++primer 初级\004.字面值常量</Filter>
-    </ClCompile>
-    <ClCompile Include="..\try\变量.cpp">
-      <Filter>Source Files\C++primer 初级\005.变量</Filter>
-    </ClCompile>
-    <ClCompile Include="..\try\左值右值.cpp">
-      <Filter>Source Files\C++primer 初级\005.变量</Filter>
-    </ClCompile>
-    <ClCompile Include="..\try\指数计算.cpp">
-      <Filter>Source Files\C++primer 初级\005.变量</Filter>
-    </ClCompile>
     <ClCompile Include="..\try\006.变量名.cpp">
       <Filter>Source Files\C++primer 初级\006.变量名</Filter>
     </ClCompile>
@@ -564,9 +531,6 @@
     <ClCompile Include="..\try\051.抛出对象.cpp">
       <Filter>Source Files\C++primer 初级\051.异常_%281%29</Filter>
     </ClCompile>
-    <ClCompile Include="..\try\C风格的字符串.cpp">
-      <Filter>Source Files\C++primer 初级\031.C风格字符串</Filter>
-    </ClCompile>
     <ClCompile Include="..\try\052.bad_alloc.cpp">
       <Filter>Source Files\C++primer 初级\052.标准异常</Filter>
     </ClCompile>
@@ -674,6 +638,42 @@
     </ClCompile>
     <ClCompile Include="..\try\070.实参类型转换.cpp">
       <Filter>Source Files\C++primer 初级\070.实参类型转换</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\003. 2.3.cpp">
+      <Filter>Source Files\C++primer 初级\003.习题解答</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\004.布尔字面值.cpp">
+      <Filter>Source Files\C++primer 初级\004.字面值常量</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\004.非打印字符的转义序列.cpp">
+      <Filter>Source Files\C++primer 初级\004.字面值常量</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\004.浮点字面值.cpp">
+      <Filter>Source Files\C++primer 初级\004.字面值常量</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\004.整型字面值.cpp">
+      <Filter>Source Files\C++primer 初级\004.字面值常量</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\004.字符串字面值.cpp">
+      <Filter>Source Files\C++primer 初级\004.字面值常量</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\004.字符串字面值连接.cpp">
+      <Filter>Source Files\C++primer 初级\004.字面值常量</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\004.字符字面值.cpp">
+      <Filter>Source Files\C++primer 初级\004.字面值常量</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\005.变量.cpp">
+      <Filter>Source Files\C++primer 初级\005.变量</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\005.指数计算.cpp">
+      <Filter>Source Files\C++primer 初级\005.变量</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\005.左值右值.cpp">
+      <Filter>Source Files\C++primer 初级\005.变量</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\031.C风格的字符串.cpp">
+      <Filter>Source Files\C++primer 初级\031.C风格字符串</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
