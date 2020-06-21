@@ -137,6 +137,7 @@
     <ClCompile Include="..\try\061.什么是递归.cpp" />
     <ClCompile Include="..\try\062.myfunc.cpp" />
     <ClCompile Include="..\try\062.函数声明-主函数.cpp" />
+    <ClCompile Include="..\try\063.略.cpp" />
     <ClCompile Include="..\try\064.内联函数.cpp" />
     <ClCompile Include="..\try\065.类的成员函数.cpp" />
     <ClCompile Include="..\try\066.aa-类的构造函数.cpp" />
@@ -162,7 +163,6 @@
     <ClCompile Include="..\try\004.非打印字符的转义序列.cpp" />
     <ClCompile Include="..\try\003.习题2.3.cpp" />
     <ClCompile Include="..\try\003.习题2.4.cpp" />
-    <ClCompile Include="063.略.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\try\062.myfunc.h" />

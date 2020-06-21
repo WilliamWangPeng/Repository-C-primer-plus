@@ -600,9 +600,6 @@
     <ClCompile Include="..\try\062.函数声明-主函数.cpp">
       <Filter>Source Files\C++primer 初级\062.函数声明</Filter>
     </ClCompile>
-    <ClCompile Include="063.略.cpp">
-      <Filter>Source Files\C++primer 初级\063.局部变量</Filter>
-    </ClCompile>
     <ClCompile Include="..\try\064.内联函数.cpp">
       <Filter>Source Files\C++primer 初级\064.内联函数</Filter>
     </ClCompile>
@@ -677,6 +674,9 @@
     </ClCompile>
     <ClCompile Include="..\try\046.a_switch_语句.cpp">
       <Filter>Source Files\C++primer 初级\046._switch_语句</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\063.略.cpp">
+      <Filter>Source Files\C++primer 初级\063.局部变量</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
