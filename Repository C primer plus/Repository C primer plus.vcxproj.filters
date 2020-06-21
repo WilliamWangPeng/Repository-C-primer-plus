@@ -235,6 +235,15 @@
     <Filter Include="Source Files\C++primer 初级\067.重载函数">
       <UniqueIdentifier>{029c47fb-5dab-4bde-a8d3-49f17a2c6635}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\C++primer 初级\068.重载与作用域">
+      <UniqueIdentifier>{e10fd693-dcd0-442e-8804-c7a1557c0a52}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\069.函数匹配">
+      <UniqueIdentifier>{b710a975-1734-49aa-800d-787dc1a5e76d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\070.实参类型转换">
+      <UniqueIdentifier>{aa38e13d-3118-4a3d-beac-7a5e4d45a469}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\try\001子文件3.cpp">
@@ -653,6 +662,18 @@
     </ClCompile>
     <ClCompile Include="..\try\067.重载(不同类）.cpp">
       <Filter>Source Files\C++primer 初级\067.重载函数</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\068.aa-变量屏蔽.cpp">
+      <Filter>Source Files\C++primer 初级\068.重载与作用域</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\068.函数屏蔽.cpp">
+      <Filter>Source Files\C++primer 初级\068.重载与作用域</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\069.函数匹配.cpp">
+      <Filter>Source Files\C++primer 初级\069.函数匹配</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\070.实参类型转换.cpp">
+      <Filter>Source Files\C++primer 初级\070.实参类型转换</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

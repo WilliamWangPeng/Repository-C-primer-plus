@@ -144,6 +144,10 @@
     <ClCompile Include="..\try\066.全局、静态对象.cpp" />
     <ClCompile Include="..\try\067.aa-函数重载.cpp" />
     <ClCompile Include="..\try\067.重载(不同类）.cpp" />
+    <ClCompile Include="..\try\068.aa-变量屏蔽.cpp" />
+    <ClCompile Include="..\try\068.函数屏蔽.cpp" />
+    <ClCompile Include="..\try\069.函数匹配.cpp" />
+    <ClCompile Include="..\try\070.实参类型转换.cpp" />
     <ClCompile Include="..\try\2.3.cpp" />
     <ClCompile Include="..\try\46.a_switch_语句.cpp" />
     <ClCompile Include="..\try\C风格的字符串.cpp" />
