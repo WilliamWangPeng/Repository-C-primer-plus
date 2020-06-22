@@ -167,6 +167,8 @@
     <ClCompile Include="..\try\072.基类与派生类.cpp" />
     <ClCompile Include="..\try\073.aa-cin条件状态.cpp" />
     <ClCompile Include="..\try\073.条件状态示例.cpp" />
+    <ClCompile Include="..\try\074.aa-文件流对象的使用.cpp" />
+    <ClCompile Include="..\try\074.示例.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\try\062.myfunc.h" />

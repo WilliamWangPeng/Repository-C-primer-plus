@@ -253,6 +253,9 @@
     <Filter Include="Source Files\C++primer 初级\073.条件状态">
       <UniqueIdentifier>{013bfa72-c4c7-4053-ba1e-3329fa0ba3e0}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\C++primer 初级\074.文件流对象的使用">
+      <UniqueIdentifier>{e30ec707-db28-4a81-a357-ef3d0d5359f9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\try\001子文件3.cpp">
@@ -698,6 +701,12 @@
     </ClCompile>
     <ClCompile Include="..\try\073.aa-cin条件状态.cpp">
       <Filter>Source Files\C++primer 初级\073.条件状态</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\074.aa-文件流对象的使用.cpp">
+      <Filter>Source Files\C++primer 初级\074.文件流对象的使用</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\074.示例.cpp">
+      <Filter>Source Files\C++primer 初级\074.文件流对象的使用</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
