@@ -247,6 +247,12 @@
     <Filter Include="Source Files\C++primer 初级\071.指向函数的指针">
       <UniqueIdentifier>{507bc15a-ad75-4247-bb27-6817ac76fcee}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\C++primer 初级\072.面向对象的标准库">
+      <UniqueIdentifier>{7c5d7ebf-b333-4ccf-a363-78759fe41727}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\073.条件状态">
+      <UniqueIdentifier>{013bfa72-c4c7-4053-ba1e-3329fa0ba3e0}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\try\001子文件3.cpp">
@@ -683,6 +689,15 @@
     </ClCompile>
     <ClCompile Include="..\try\071.指向函数的指针.cpp">
       <Filter>Source Files\C++primer 初级\071.指向函数的指针</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\072.基类与派生类.cpp">
+      <Filter>Source Files\C++primer 初级\072.面向对象的标准库</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\073.条件状态示例.cpp">
+      <Filter>Source Files\C++primer 初级\073.条件状态</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\073.aa-cin条件状态.cpp">
+      <Filter>Source Files\C++primer 初级\073.条件状态</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
