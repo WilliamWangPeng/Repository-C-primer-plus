@@ -169,12 +169,21 @@
     <ClCompile Include="..\try\073.条件状态示例.cpp" />
     <ClCompile Include="..\try\074.aa-文件流对象的使用.cpp" />
     <ClCompile Include="..\try\074.示例.cpp" />
+    <ClCompile Include="..\try\075.Header.cpp" />
+    <ClCompile Include="..\try\075.数据到vector.cpp" />
+    <ClCompile Include="..\try\075.aa-读取数据.cpp" />
+    <ClCompile Include="..\try\076.文件模式.cpp" />
+    <ClCompile Include="..\try\077.Header.cpp" />
+    <ClCompile Include="..\try\077.一个打开并检查输入文件的程序.cpp" />
+    <ClCompile Include="..\try\078.字符串流.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\try\062.myfunc.h" />
     <ClInclude Include="..\try\064.Header.h" />
     <ClInclude Include="..\try\066.Header.h" />
     <ClInclude Include="..\try\052.Header.h" />
+    <ClInclude Include="..\try\075.Header.h" />
+    <ClInclude Include="..\try\077.Header.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

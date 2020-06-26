@@ -256,6 +256,18 @@
     <Filter Include="Source Files\C++primer 初级\074.文件流对象的使用">
       <UniqueIdentifier>{e30ec707-db28-4a81-a357-ef3d0d5359f9}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\C++primer 初级\076.文件模式">
+      <UniqueIdentifier>{beb1f624-f4b9-4842-91b6-6ac77d900170}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\075.文件操作 习题">
+      <UniqueIdentifier>{3a07c6e1-d095-400e-9a63-3a294d4021b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\077.一个打开并检查输入文件的程序">
+      <UniqueIdentifier>{568f2a8d-c0d2-4843-8412-fa8f975113dd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C++primer 初级\078.字符串流">
+      <UniqueIdentifier>{4b36a5d3-4335-45d0-ad29-82a09440a9c9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\try\001子文件3.cpp">
@@ -708,6 +720,27 @@
     <ClCompile Include="..\try\074.示例.cpp">
       <Filter>Source Files\C++primer 初级\074.文件流对象的使用</Filter>
     </ClCompile>
+    <ClCompile Include="..\try\075.数据到vector.cpp">
+      <Filter>Source Files\C++primer 初级\075.文件操作 习题</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\075.aa-读取数据.cpp">
+      <Filter>Source Files\C++primer 初级\075.文件操作 习题</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\076.文件模式.cpp">
+      <Filter>Source Files\C++primer 初级\076.文件模式</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\077.一个打开并检查输入文件的程序.cpp">
+      <Filter>Source Files\C++primer 初级\077.一个打开并检查输入文件的程序</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\077.Header.cpp">
+      <Filter>Source Files\C++primer 初级\077.一个打开并检查输入文件的程序</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\075.Header.cpp">
+      <Filter>Source Files\C++primer 初级\075.文件操作 习题</Filter>
+    </ClCompile>
+    <ClCompile Include="..\try\078.字符串流.cpp">
+      <Filter>Source Files\C++primer 初级\078.字符串流</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\try\062.myfunc.h">
@@ -721,6 +754,12 @@
     </ClInclude>
     <ClInclude Include="..\try\052.Header.h">
       <Filter>Source Files\C++primer 初级\052.标准异常</Filter>
+    </ClInclude>
+    <ClInclude Include="..\try\077.Header.h">
+      <Filter>Source Files\C++primer 初级\077.一个打开并检查输入文件的程序</Filter>
+    </ClInclude>
+    <ClInclude Include="..\try\075.Header.h">
+      <Filter>Source Files\C++primer 初级\075.文件操作 习题</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
